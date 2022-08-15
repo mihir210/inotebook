@@ -4,4 +4,5 @@
       "*.js": "javascriptreact"
 },
 "files.autoSave": "afterDelay",
+"files.autoSaveDelay": 10000,
 }
